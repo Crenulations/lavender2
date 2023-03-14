@@ -1,2 +1,4 @@
 date,mood_metric,health_metric,mania_metric,depression_metric,anxiety_metric,wake_up_time,sleep_time,weight,screen_time,prn_count,herb_count,cigs_count,reading_time,piano_time,meditation_time,work_time
-2023-03-10,50,30,25,40,25,10:15:00,23:00:00,170.0,9.0,2.0,1.0,7.0,0.0,0.0,0.0,4.0
+2023-03-10,50,30,25,40,25,10:15:00,3:00:00,170.0,9.0,2,1.0,7.0,0.0,0.0,0.0,4.0
+2023-03-11,45,35,25,35,25,10:00:00,04:00:00,170.0,10.0,2,0.0,6.0,0.0,0.0,0.0,4.0
+2023-03-12,50,40,35,35,35,11:00:00,23:00:00,170.0,8.0,1,0.0,5.0,0.0,0.0,0.0,5.0

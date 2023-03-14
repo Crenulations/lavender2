@@ -1,3 +1,4 @@
 date,food_name,protein,carbs,fat,calories,dairy,fruit,vegetable
 2023-03-10,Steak,200,0,136,336,False,False,False
 2023-03-10,Sauteed Onion,3,27,8,115,False,False,False
+2023-03-11,4 Sausages,83,5,10,200,False,False,False
